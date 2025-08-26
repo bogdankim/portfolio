@@ -38,7 +38,7 @@ export const Header: React.FC<HeaderProps> = (props) => {
 
           <ul>
             <li>
-              <a aria-label="github" href="https://github.com/semperprimum">
+              <a aria-label="github" href="https://github.com/bogdankim">
                 <SvgWrapper aria-hidden="true">
                   <FaGithub />
                 </SvgWrapper>
