@@ -28,7 +28,7 @@ export const About = () => {
       <Paragraph>Fast-paced environments like startups and new ventures don’t scare me—they motivate and excite me.
       </Paragraph>
 
-      <Paragraph><a href="mailto:bogdan@thekim.ca">bogdan@thekim.ca</a></Paragraph>
+      <Paragraph><a href="mailto:hello@bogdankim.com">hello@bogdankim.com</a></Paragraph>
     </AboutWrapper>
   );
 };
